@@ -1,0 +1,2 @@
+# StrategyModel
+StrategyModel exercise
